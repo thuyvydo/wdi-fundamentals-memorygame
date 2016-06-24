@@ -35,6 +35,12 @@ footer {
 	clear: both;
 }
 
+img {
+	height: inherit;
+	width: inherit;
+	
+}
+
 .clearfix:after {
 	visibility: hidden;
 	display: block;
